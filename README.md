@@ -1,2 +1,2 @@
 # GitHub-Actions-Sandbox
-Sandbo for GitHub-actions project
+Sandbox for GitHub-actions project
